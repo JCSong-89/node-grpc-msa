@@ -12,7 +12,7 @@ message Greeting {
 }
 
 message GreetRequest {
-  Greeting gereeting = 1;
+  Greeting greeting = 1;
 }
 
 message GreetRespone {
